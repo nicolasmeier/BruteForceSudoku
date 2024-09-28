@@ -1,0 +1,2 @@
+# BruteForceSudoku
+Brute Frocing Sudoku
